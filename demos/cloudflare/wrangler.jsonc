@@ -13,7 +13,9 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "emdash-test"
+			"database_name": "emdash-test",
+			"migrations_dir": "../../migrations",
+			"database_id": "206f4ece-5097-4f98-b3db-e831268e25d4"
 		}
 	],
 	"r2_buckets": [
